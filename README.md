@@ -1,10 +1,29 @@
-# 🌐 André Augusto
-<p align="center" style="margin-top: -10px;">
+
+<div align="center" style="position: relative; display: inline-block;">
+
+  <!-- GIF -->
   <img 
-    src="https://media1.tenor.com/m/Fp2r1Rgm8M0AAAAC/ryosuke-takahashi-initial-d.gif"
+    src="https://media1.tenor.com/m/Fp2r1Rgm8M0AAAAC/ryosuke-takahashi-initial-d.gif" 
     width="200"
+    style="border-radius: 10px;"
   />
-</p>
+
+  <!-- Nome sobre o GIF -->
+  <div style="
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background-color: rgba(0, 0, 0, 0.6); 
+      color: #fff; 
+      padding: 5px 15px; 
+      border-radius: 5px;
+      font-size: 20px;
+      font-weight: bold;
+      ">
+      🌐André Augusto
+  </div>
+</div>
 
 **`Desenvolvedor Backend`**
 
