@@ -1,9 +1,11 @@
-<p align="center">
+<h1 align="center">
+  🌐 André Augusto
   <img 
     src="https://media1.tenor.com/m/Fp2r1Rgm8M0AAAAC/ryosuke-takahashi-initial-d.gif"
-    width="400"/>
-</p>
-
+    width="60"
+    style="vertical-align: middle; margin-left: 10px;"
+  />
+</h1>
 <h1 align="center"> 🌐 André Augusto</h1>
 
 **`Desenvolvedor Backend`**
@@ -101,21 +103,3 @@ Tenho me aprofundado continuamente em Backend e adentrando ao Full-Stack, sempre
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=yAndreSk&show_icons=true&theme=tokyonight" 
-  />
-
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yAndreSk&theme=tokyonight&layout=compact" 
-  />
-</p>
