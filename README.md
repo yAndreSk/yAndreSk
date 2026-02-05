@@ -1,14 +1,14 @@
 <p align="center" style="margin-bottom: 0;">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F3A8A&height=90&section=header&text=%20André%20Augusto&fontSize=26&fontColor=ffffff&animation=fadeIn" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F3A8A&height=120&section=header&text=%20André%20Augusto&fontSize=28&fontColor=ffffff&animation=fadeIn&textBg=false"
     alt="capa animada"
   />
 </p>
 
-<p align="center" style="margin-top: -10px;">
+<p align="center" style="margin-top: -12px;">
   <img 
     src="https://media1.tenor.com/m/Fp2r1Rgm8M0AAAAC/ryosuke-takahashi-initial-d.gif"
-    width="340"
+    width="360"
   />
 </p>
 
