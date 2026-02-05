@@ -1,4 +1,4 @@
-# 👩🏻‍💻 André Augusto
+# 🌐 André Augusto
 
 **`Desenvolvedor Backend`**
 
@@ -25,7 +25,7 @@ Tenho me aprofundado continuamente em Backend e adentrando ao Full-Stack, sempre
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 💾 Linguagens e Tecnologias
 
 <img 
     align="left" 
