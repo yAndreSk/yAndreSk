@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4169E1&height=120&section=header&text=🌐%20André%20Augusto&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="capa animada"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4169E1&height=120&section=header&text=%20André%20Augusto&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="capa animada"/>
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
   />
 </p>
 
-**`Desenvolvedor Backend`**
+**`🌐 Desenvolvedor Backend`**
 
 Me chamo André Augusto, tenho 20 anos e sou natural do Paraná. Atualmente, estou cursando Engenharia de Software. Me dedico diariamente a melhorar meus conhecimentos em programação, unindo fundamentos teóricos e prática no desenvolvimento de soluções.
 
