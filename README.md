@@ -1,4 +1,10 @@
-# 🌐 André Augusto
+<p align="center">
+  <img 
+    src="https://media1.tenor.com/m/Fp2r1Rgm8M0AAAAC/ryosuke-takahashi-initial-d.gif"
+    width="400"/>
+</p>
+
+<h1 align="center"> 🌐 André Augusto</h1>
 
 **`Desenvolvedor Backend`**
 
