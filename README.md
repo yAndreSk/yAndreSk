@@ -9,8 +9,6 @@
 **`Desenvolvedor Backend`**
 
 Me chamo André Augusto, tenho 20 anos e sou natural do Paraná. Atualmente, estou cursando Engenharia de Software. Me dedico diariamente a melhorar meus conhecimentos em programação, unindo fundamentos teóricos e prática no desenvolvimento de soluções.
-Possuo base em itens como lógica de programação, orientação a objetos e estruturas de dados, focando em desenvolvimento backend com Java/C++ e integração com bancos de dados.
-Tenho me aprofundado continuamente em Backend e adentrando ao Full-Stack, sempre prezo em boas práticas de desenvolvimento, arquitetura de software e fundamentos de computação, buscando tecnicamente a aplicar meus conhecimentos.
 
 <p align="left">
     <a href="https://github.com/yAndreSk?tab=repositories&sort=stargazers">
