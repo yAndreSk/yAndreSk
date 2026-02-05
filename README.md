@@ -1,8 +1,7 @@
-
 # 🌐 André Augusto
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:4B0082&height=200&section=header&text=🌐%20André%20Augusto&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="capa animada"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4169E1&height=120&section=header&text=🌐%20André%20Augusto&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="capa animada"/>
 </p>
 
 <p align="center">
