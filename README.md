@@ -1,29 +1,16 @@
 
-<div align="center" style="position: relative; display: inline-block;">
+# 🌐 André Augusto
 
-  <!-- GIF -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:4B0082&height=200&section=header&text=🌐%20André%20Augusto&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="capa animada"/>
+</p>
+
+<p align="center">
   <img 
-    src="https://media1.tenor.com/m/Fp2r1Rgm8M0AAAAC/ryosuke-takahashi-initial-d.gif" 
+    src="https://media1.tenor.com/m/Fp2r1Rgm8M0AAAAC/ryosuke-takahashi-initial-d.gif"
     width="200"
-    style="border-radius: 10px;"
   />
-
-  <!-- Nome sobre o GIF -->
-  <div style="
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      background-color: rgba(0, 0, 0, 0.6); 
-      color: #fff; 
-      padding: 5px 15px; 
-      border-radius: 5px;
-      font-size: 20px;
-      font-weight: bold;
-      ">
-      🌐André Augusto
-  </div>
-</div>
+</p>
 
 **`Desenvolvedor Backend`**
 
