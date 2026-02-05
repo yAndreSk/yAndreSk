@@ -2,7 +2,7 @@
 <p align="center" style="margin-top: -10px;">
   <img 
     src="https://media1.tenor.com/m/Fp2r1Rgm8M0AAAAC/ryosuke-takahashi-initial-d.gif"
-    width="550"
+    width="300"
   />
 </p>
 
