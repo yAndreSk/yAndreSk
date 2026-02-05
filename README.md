@@ -6,7 +6,6 @@
     style="vertical-align: middle; margin-left: 10px;"
   />
 </h1>
-<h1 align="center"> 🌐 André Augusto</h1>
 
 **`Desenvolvedor Backend`**
 
