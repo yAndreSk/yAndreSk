@@ -51,9 +51,15 @@ Atualmente foco em desenvolvimento de APIs REST com Java e Spring Boot.
 ---
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yAndreSk/yAndreSk/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yAndreSk/yAndreSk/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yAndreSk/yAndreSk/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/yAndreSk/yAndreSk/output/pacman-contribution-graph-dark.svg">
+
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/yAndreSk/yAndreSk/output/pacman-contribution-graph.svg">
+
+    <img
+      alt="Pac-Man Contribution Graph"
+      src="https://raw.githubusercontent.com/yAndreSk/yAndreSk/output/pacman-contribution-graph.svg">
   </picture>
 </p>
 ---
