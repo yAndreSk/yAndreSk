@@ -50,7 +50,10 @@ Atualmente foco em desenvolvimento de APIs REST com Java e Spring Boot.
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yAndreSk/yAndreSk/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yAndreSk/yAndreSk/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/heitorsfreitass/yAndreSk/output/pacman-contribution-graph.svg">
+</picture>
+
+---
