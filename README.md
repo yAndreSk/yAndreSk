@@ -12,7 +12,7 @@
   />
 </p>
 
-<h3 align="center">🚀 Consultor Técnico | Java • Spring Boot</h3>
+<h3 align="center"> Consultor Técnico | Java • Spring Boot</h3>
 
 ---
 
