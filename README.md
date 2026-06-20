@@ -1,4 +1,3 @@
-```md
 <p align="center" style="margin-bottom: 0;">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F3A8A&height=90&section=header&text=André%20Augusto&fontSize=26&fontColor=ffffff&animation=fadeIn" 
