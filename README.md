@@ -52,7 +52,7 @@ Atualmente foco em desenvolvimento com Delphi, Java e Node.js.
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yAndreSk&layout=compact&langs_count=7&theme=algolia"
   />
 </p>
----
+
 <p align="center">
   <picture>
        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yAndreSk/yAndreSk/output/pacman-contribution-graph-dark.svg">
