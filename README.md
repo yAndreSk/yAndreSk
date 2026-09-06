@@ -14,7 +14,7 @@
 
 <h3 align="center"> Consultor Técnico | Node.js • Delphi • Java </h3>
 
-## 👨‍💻 Sobre mim
+## 🌐 Sobre mim
 
 Sou estudante de Engenharia de Software e atuo atualmente com Consultoria Técnica.  
 Atualmente foco em desenvolvimento com Delphi, Java e Node.js.
