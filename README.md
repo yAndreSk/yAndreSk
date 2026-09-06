@@ -24,7 +24,6 @@ Atualmente foco em desenvolvimento com Delphi, Java e Node.js.
 - 🎓 Engenharia de Software  
 - ☕ Developer  
 - 🌎 Paraná - Brasil  
----
 
 ## 💻 Stacks
 
@@ -37,8 +36,6 @@ Atualmente foco em desenvolvimento com Delphi, Java e Node.js.
 ![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
 
 ## 📊 Stats
 
