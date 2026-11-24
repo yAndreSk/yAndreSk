@@ -12,12 +12,12 @@
   />
 </p>
 
-<h3 align="center"> Consultor Técnico | Node.js • Delphi • Java </h3>
+<h3 align="center"> Desenvolvedor | Delphi • Node.js • Java </h3>
 
 ## 🌐 Sobre mim
 
-Sou estudante de Engenharia de Software e atuo atualmente com Consultoria Técnica.  
-Atualmente foco em desenvolvimento com Delphi, Java e Node.js.
+Sou estudante de Engenharia de Software e atuo atualmente com Desenvolvimento.  
+Atualmente foco em desenvolvimento com Delphi e Node.js.
 
 - 🎓 Engenharia de Software  
 - ☕ Developer  
@@ -26,11 +26,8 @@ Atualmente foco em desenvolvimento com Delphi, Java e Node.js.
 ## 💻 Stacks
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
