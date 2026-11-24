@@ -12,7 +12,7 @@
   />
 </p>
 
-<h3 align="center"> Desenvolvedor | Delphi • Node.js • Java </h3>
+<h3 align="center"> Desenvolvedor | Delphi • Node.js • </h3>
 
 ## 🌐 Sobre mim
 
